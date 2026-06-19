@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_cachefile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_request.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_request_filedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\cpps_socket_server_client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\http_parser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\socket\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_client.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_event_callback.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_cachefile.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_controller.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_request.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_request_filedata.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_httpserver_session.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_server.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\cpps_socket_server_client.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\http_parser.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\stdafx.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\socket\targetver.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\common\cpps\libs\socket\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{8BA80343-14A4-3FA3-A9A8-9D6DEDC49075}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9C483CA4-2E8F-3304-8796-986423B33B41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
