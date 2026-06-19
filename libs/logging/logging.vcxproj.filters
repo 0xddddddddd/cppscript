@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logger_config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logger_message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logging_filehandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logging_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logging_rotatingfilehandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logging_streamhandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\cpps_logging_timerotatingfilehandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\logging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\common\cpps\libs\logging\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logger.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logger_config.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logger_message.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logging_filehandler.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logging_handler.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logging_rotatingfilehandler.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logging_streamhandler.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\cpps_logging_timerotatingfilehandler.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\stdafx.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\common\cpps\libs\logging\targetver.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\common\cpps\libs\logging\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{8BA80343-14A4-3FA3-A9A8-9D6DEDC49075}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9C483CA4-2E8F-3304-8796-986423B33B41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
